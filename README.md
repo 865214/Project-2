@@ -48,6 +48,44 @@ By using Histogram  roles applied feature is displayed to check the job types.
 ![image](https://user-images.githubusercontent.com/101926069/191777348-ec3e0eaf-e1d4-44b0-8e87-e4225b242c79.png)![image](https://user-images.githubusercontent.com/101926069/191777414-9d5bf23b-245b-465e-84e7-033e6b5b9c92.png)
 TF-IDF is better than Count Vectorizers because it not only focuses on the frequency of words present in the corpus but also provides the importance of the words.We can then remove the words that are less important for analysis, hence making the model building less complex by reducing the input dimensions.
 
+# Train-Test Split
+![image](https://user-images.githubusercontent.com/101926069/191778132-ff739609-03a4-49d4-92ea-54fa0a335775.png)
+![image](https://user-images.githubusercontent.com/101926069/191778204-0115ec57-5d83-4f1f-a32d-eed5c8676ab4.png)
+
+# Confusion Matrix
+Before Stratified Sampling
+![image](https://user-images.githubusercontent.com/101926069/191778552-34d15d6b-c724-43ac-860c-f0ab4fec177a.png)
+After Stratified Sampling 
+![image](https://user-images.githubusercontent.com/101926069/191778674-d89a8648-2e12-426e-8bbc-4ce4c87346c3.png)
+
+# Model Building 
+![image](https://user-images.githubusercontent.com/101926069/191778877-f03e2fd0-1736-4eaa-9a8e-2ba8ca79964a.png)
+
+# Model Evaluation
+![image](https://user-images.githubusercontent.com/101926069/191779022-ba28db9c-47a7-477e-afc8-a7ce5814fcc3.png)
+Here, we have taken Model building algorithms such as Decision Tree Classifier,  Logistic Regression, SVM, Random , Forest, etc.Among these algorithms, 100% Accuracy, Precision, Recall and F1-score have been achieved.100% accuracy is achieved by using the model Random Forest, Decision Tree and Gradient Boosting Classifier.
+Here, we have taken Model building algorithms such as Decision Tree Classifier,  Logistic Regression, SVM, Random , Forest, etc.Among these algorithms, 100% Accuracy, Precision, Recall and F1-score have been achieved.100% accuracy is achieved by using the model Random Forest, Decision Tree and Gradient Boosting Classifier.
+![image](https://user-images.githubusercontent.com/101926069/191779500-aaf9eac0-5d24-49d6-a95b-f01724ea7c8d.png)
+![image](https://user-images.githubusercontent.com/101926069/191780884-0d3f107f-84ba-4572-8d4e-1c4f75dd70df.png)
+
+#  Model Evaluation Report
+Random Forest Classifier
+![image](https://user-images.githubusercontent.com/101926069/191781130-5faa7f4c-f9aa-4324-84a4-6a9b7bee4efa.png)
+![image](https://user-images.githubusercontent.com/101926069/191781218-7c0fdd03-04ee-4f78-9644-5fd77534e0f4.png)
+Here, we have taken Random Forest Model.100% Accuracy, Precision, Recall and F1-score have been achieved.No overfitting or underfitting has been found. All classes are classified correctly and no misclassification.
+
+# Deployment
+![image](https://user-images.githubusercontent.com/101926069/191781591-694575ec-4bf9-465f-87a8-d07b5125b9b0.png)
+Here, we have taken Random Forest as our Final Model algorithms for the deployment.The algorithm has achieved 100% Accuracy, Precision, Recall and F1-score on testing data.100% accuracy is achieved by using the model Random Forest no misclassification on validation set.We have deployed the Resume Classification using Stream-lit as the platform
+![image](https://user-images.githubusercontent.com/101926069/191781953-f3457f50-71a9-4dcc-96ca-590e4c171813.png)
+![image](https://user-images.githubusercontent.com/101926069/191782011-8ef5b5de-86e4-44b4-9032-5c84f1593ee8.png)
+
+
+
+
+
+
+
 
 
 
