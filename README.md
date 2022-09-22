@@ -66,11 +66,12 @@ After Stratified Sampling
 Here, we have taken Model building algorithms such as Decision Tree Classifier,  Logistic Regression, SVM, Random , Forest, etc.Among these algorithms, 100% Accuracy, Precision, Recall and F1-score have been achieved.100% accuracy is achieved by using the model Random Forest, Decision Tree and Gradient Boosting Classifier.
 Here, we have taken Model building algorithms such as Decision Tree Classifier,  Logistic Regression, SVM, Random , Forest, etc.Among these algorithms, 100% Accuracy, Precision, Recall and F1-score have been achieved.100% accuracy is achieved by using the model Random Forest, Decision Tree and Gradient Boosting Classifier.
 ![image](https://user-images.githubusercontent.com/101926069/191779500-aaf9eac0-5d24-49d6-a95b-f01724ea7c8d.png)
-![image](https://user-images.githubusercontent.com/101926069/191780884-0d3f107f-84ba-4572-8d4e-1c4f75dd70df.png)
+
 
 #  Model Evaluation Report
 Random Forest Classifier
 ![image](https://user-images.githubusercontent.com/101926069/191781130-5faa7f4c-f9aa-4324-84a4-6a9b7bee4efa.png)
+![image](https://user-images.githubusercontent.com/101926069/191782633-335dc68f-7fd3-4732-b73a-0310a4a2c245.png)
 Here, we have taken Random Forest Model.100% Accuracy, Precision, Recall and F1-score have been achieved.No overfitting or underfitting has been found. All classes are classified correctly and no misclassification.
 
 # Deployment
