@@ -71,7 +71,6 @@ Here, we have taken Model building algorithms such as Decision Tree Classifier, 
 #  Model Evaluation Report
 Random Forest Classifier
 ![image](https://user-images.githubusercontent.com/101926069/191781130-5faa7f4c-f9aa-4324-84a4-6a9b7bee4efa.png)
-![image](https://user-images.githubusercontent.com/101926069/191781218-7c0fdd03-04ee-4f78-9644-5fd77534e0f4.png)
 Here, we have taken Random Forest Model.100% Accuracy, Precision, Recall and F1-score have been achieved.No overfitting or underfitting has been found. All classes are classified correctly and no misclassification.
 
 # Deployment
